@@ -22,6 +22,10 @@ A simple app that demonstrates an onboarding screen and some complex animations 
 - Use of AppStorage to restart app back to onboarding.
 - Parallax effect and complex animation.
 
+## 🙇🏻 Credits
+
+Huge sincere thanks goes to [Robert Petras](https://twitter.com/RobertPetras) and his [SwiftUI Masterclass](http://credo.academy/swiftui-course.html) course where I have learnt most of my SwiftUI knowledge. 
+
 ### 👨🏻‍⚖️ Disclaimer
 
 > This is posted as a way to share SwiftUI learnings and to have some reference for when I need the feature.
