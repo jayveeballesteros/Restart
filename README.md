@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/SwiftUI-3.0-red.svg" />
 </p>
 
-# AsyncImage
+# Restart
 A simple app that demonstrates an onboarding screen and some complex animations using SwiftUI.
 
 ### 🏙 Screenshots
